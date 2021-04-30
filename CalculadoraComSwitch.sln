@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraComSwitch", "CalculadoraComSwitch\CalculadoraComSwitch.csproj", "{EB8147D0-011F-420D-9D33-047039127A7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB8147D0-011F-420D-9D33-047039127A7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB8147D0-011F-420D-9D33-047039127A7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB8147D0-011F-420D-9D33-047039127A7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB8147D0-011F-420D-9D33-047039127A7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FCDDABE-6510-44DA-BBC7-AA2BA6905E89}
+	EndGlobalSection
+EndGlobal
